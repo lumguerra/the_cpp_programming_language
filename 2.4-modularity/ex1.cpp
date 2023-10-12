@@ -8,4 +8,3 @@ private:
 double∗ elem; // elem points to an array of sz doubles
 int sz;
 };
-The key p
